@@ -34,12 +34,8 @@
 - **상점 기능** – 적립한 포인트로 물건 구매 가능  
 - **관리자 기능** – 관리자만 접근 가능한 웹 페이지에서 데이터 관리  
 
----
-
 ## 🏗️ 시스템 구성도  
 ![System Architecture](../assets/images/system_architecture.png) 
-
----
 
 ## 🛠️ 기술 스택  
 
@@ -57,9 +53,6 @@
 
 ### 📌 개발 도구
 <p> <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/PuTTY-%23000000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/> <img src="https://img.shields.io/badge/FileZilla-%23BF0000.svg?style=for-the-badge&logo=filezilla&logoColor=white"/> </p>
-
-
----
 
 ## 🔗 프로젝트 구조  
 
